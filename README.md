@@ -57,4 +57,4 @@ MIT, see `LICENSE`. Fonts and models: `THIRD_PARTY_NOTICES.md`.
 ---
 
 The full version (several streams at once, a stream finder, chat signals, up to 8 clips, a list of open clipping
-campaigns and ready prompts, updates) is in my Skool community, link in the video description.
+campaigns and ready prompts, updates) is in [Nik Popov AI on Skool](https://www.skool.com/nik-popov-ai-9602).
