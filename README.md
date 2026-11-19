@@ -58,3 +58,5 @@ MIT, see `LICENSE`. Fonts and models: `THIRD_PARTY_NOTICES.md`.
 
 The full version (several streams at once, a stream finder, chat signals, up to 8 clips, a list of open clipping
 campaigns and ready prompts, updates) is in [Nik Popov AI on Skool](https://www.skool.com/nik-popov-ai-9602).
+
+Into AI animation, 2D and 3D? My second community: [GridMe AI Animation on Skool](https://www.skool.com/gridme-ai-animation-2d-3d-2127).
